@@ -1,7 +1,8 @@
 ai chatbot app
 
 
-
+<img width="1124" alt="Screenshot 2024-09-10 at 9 01 13 PM" src="https://github.com/user-attachments/assets/e1b5f84a-58a0-4a61-9bdb-c8fb20089c56">
+(had trouble deploying this project, and it only seems to work on my computer and results in an error on others' computers)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
